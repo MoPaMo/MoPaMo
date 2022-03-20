@@ -1,6 +1,6 @@
 👋 Hi, I’m @MoPaMo
 - 👀 I’m interested in *the Web* 
-- 🌱 I’m currently learning NodeJS with Express
+- 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on basically any cool open source project, ideally JS
 - 📫 If you want to contact me, use the form on my GitHub page: <https://MoPaMo.github.io#contact>
 
