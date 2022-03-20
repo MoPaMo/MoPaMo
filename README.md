@@ -2,7 +2,7 @@
 - 👀 I’m interested in *the Web* 
 - 🌱 I’m currently learning Swift and SwiftUI
 - 💞️ I’m looking to collaborate on basically any cool open source project, ideally JS
-- 📫 If you want to contact me, send an email to [mailto:mopamo@protonmail.com](mopamo@protonmail.com)
+- 📫 If you want to contact me, send an email to [mopamo@protonmail.com](mailto:mopamo@protonmail.com)
 
 <!---
 MoPaMo/MoPaMo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
